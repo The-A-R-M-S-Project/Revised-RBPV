@@ -1,7 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60f27a17-6e0b-4997-b45f-ca693496705d" name="Default Changelist" comment="" />
+    <list default="true" id="60f27a17-6e0b-4997-b45f-ca693496705d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Amortize.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Ping.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/UPGRADE_GUIDE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/dist/axios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/dist/axios.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/dist/axios.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/dist/axios.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/adapters/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/adapters/http.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/adapters/xhr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/axios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/cancel/Cancel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/cancel/CancelToken.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/cancel/isCancel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/Axios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/InterceptorManager.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/buildFullPath.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/createError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/dispatchRequest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/enhanceError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/mergeConfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/settle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/transformData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/defaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/bind.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/buildURL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/combineURLs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/cookies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/deprecatedMethod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/isAbsoluteURL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/isURLSameOrigin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/normalizeHeaderName.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/parseHeaders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/spread.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/axios/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/boostrap/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/boostrap/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/debug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/http.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/https.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/dist/vue-router.common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/dist/vue-router.esm.browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/dist/vue-router.esm.browser.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/dist/vue-router.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/dist/vue-router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/dist/vue-router.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/src/components/link.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/src/components/view.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/src/create-matcher.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/src/create-route-map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/src/history/abstract.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/src/history/base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/src/history/hash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/src/history/html5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/src/install.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/src/util/async.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/src/util/dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/src/util/errors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/src/util/location.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/src/util/misc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/src/util/params.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/src/util/path.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/src/util/push-state.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/src/util/query.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/src/util/resolve-components.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/src/util/route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/src/util/scroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/src/util/state-key.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/src/util/warn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/types/router.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/types/vue.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/vetur/attributes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-router/vetur/tags.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/.idea/server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Code/.ipynb_checkpoints/scheduler-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Code/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Code/scheduler.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Code/scheduler.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Code/scheduler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/templates/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hello.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +152,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1is78oh1D7SD3UrGMfFaGsvtTW1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -48,6 +174,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BACTOR\PycharmProjects\RBPV" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -75,7 +206,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server/app.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\BACTOR\PycharmProjects\RBPV\app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,14 +279,30 @@
       <workItem from="1604055942158" duration="4687000" />
       <workItem from="1604392240286" duration="91000" />
       <workItem from="1605902351916" duration="602000" />
+      <workItem from="1606112334304" duration="7883000" />
+      <workItem from="1606146208306" duration="714000" />
+      <workItem from="1606198769518" duration="1464000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/RBPV$scheduler.coverage" NAME="scheduler Coverage Results" MODIFIED="1603486717437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
-    <SUITE FILE_PATH="coverage/RBPV$app.coverage" NAME="app Coverage Results" MODIFIED="1605902554876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/server" />
+    <SUITE FILE_PATH="coverage/RBPV$app.coverage" NAME="app Coverage Results" MODIFIED="1606195615103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/server" />
   </component>
 </project>
